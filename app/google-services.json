@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629927269985",
+    "project_id": "tanamanhias-cb9b4",
+    "storage_bucket": "tanamanhias-cb9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629927269985:android:6a8adfe0fcb6966f4ebc20",
+        "android_client_info": {
+          "package_name": "com.kelompok.uas_oop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629927269985-e4bc3g7b4p9u4i19tbmnuho9j787e98c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnmNJ7O-6aDCtLoZ2Opu760yzOYl24lUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629927269985-e4bc3g7b4p9u4i19tbmnuho9j787e98c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
